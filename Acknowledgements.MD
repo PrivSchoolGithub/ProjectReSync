@@ -16,6 +16,7 @@ __Intellectual Property of Studio Engi__
 #### Acknowledgements
 
 __Description__: Credits to Third-party Sources
+
 __Author(s)__: Scoot [MasterScootScoot][MasterKingSirPlease#6533]
 
 ---
