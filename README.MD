@@ -25,8 +25,8 @@ __Author(s)__: Scoot [MasterScootScoot][MasterKingSirPlease#6533]
 
 __Table of Contents__
 ---
-> What is ReSync?
-  > test
+- What is ReSync?
+  - test
     
     Welcome to ReSync!
     TABLE OF CONTENTS
