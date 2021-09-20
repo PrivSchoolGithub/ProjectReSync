@@ -2,6 +2,7 @@
 
 ---
 __Description__: The revival of SyncAdmin.
+
 __Authors__:
 - Kate [0bBinary][Sezei#3061]
 - Scoot [MasterScootScoot][MasterKingSirPlease#6533]
