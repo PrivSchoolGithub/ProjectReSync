@@ -4,7 +4,7 @@
 
 ---
 
-Copyright Protected © Studio Engi, 0bBinary (/ EngiAdurite) and the Lead Contributors, 2021.
+Copyright Protected © Sezei.me, 0bBinary (/ EngiAdurite) and the Lead Contributors, 2022.
 
 Thank you for using a fine product made by Studio Engi.
 All of the products made by Studio Engi are and always will be Open Source.
@@ -14,7 +14,7 @@ To provide the best experience using your product, please follow the included in
 
 __License__
 
-Copyright 2020 © Kate "Sezei" N. a.k.a "0bBinary";
+Copyright 2022 © Kate "Sezei" N. a.k.a "0bBinary";
 Protected by the GNU GPLv3 License. Please read below for more info and permissions.
 
 
