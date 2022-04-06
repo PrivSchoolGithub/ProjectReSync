@@ -270,12 +270,12 @@ of sections 4 and 5, provided that you also convey the
 machine-readable Corresponding Source under the terms of this License,
 in one of these ways:
 
-    a) Convey the object code in, or embodied in, a physical product
+  a) Convey the object code in, or embodied in, a physical product
     (including a physical distribution medium), accompanied by the
     Corresponding Source fixed on a durable physical medium
     customarily used for software interchange.
 
-    b) Convey the object code in, or embodied in, a physical product
+  b) Convey the object code in, or embodied in, a physical product
     (including a physical distribution medium), accompanied by a
     written offer, valid for at least three years and valid for as
     long as you offer spare parts or customer support for that product
@@ -287,13 +287,13 @@ in one of these ways:
     conveying of source, or (2) access to copy the
     Corresponding Source from a network server at no charge.
 
-    c) Convey individual copies of the object code with a copy of the
+  c) Convey individual copies of the object code with a copy of the
     written offer to provide the Corresponding Source.  This
     alternative is allowed only occasionally and noncommercially, and
     only if you received the object code with such an offer, in accord
     with subsection 6b.
 
-    d) Convey the object code by offering access from a designated
+  d) Convey the object code by offering access from a designated
     place (gratis or for a charge), and offer equivalent access to the
     Corresponding Source in the same way through the same place at no
     further charge.  You need not require recipients to copy the
@@ -306,7 +306,7 @@ in one of these ways:
     Corresponding Source, you remain obligated to ensure that it is
     available for as long as needed to satisfy these requirements.
 
-    e) Convey the object code using peer-to-peer transmission, provided
+  e) Convey the object code using peer-to-peer transmission, provided
     you inform other peers where the object code and Corresponding
     Source of the work are being offered to the general public at no
     charge under subsection 6d.
@@ -652,33 +652,33 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+  <one line to give the program's name and a brief idea of what it does.>
+  Copyright (C) <year>  <name of author>
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
 
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  You should have received a copy of the GNU General Public License
+ 	along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 Also add information on how to contact you by electronic and paper mail.
 
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    <program>  Copyright (C) <year>  <name of author>
-    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
-    This is free software, and you are welcome to redistribute it
-    under certain conditions; type `show c' for details.
+  <program>  Copyright (C) <year>  <name of author>
+  This program comes with ABSOLUTELY NO WARRANTY; for details type 'show w'.
+  This is free software, and you are welcome to redistribute it
+  under certain conditions; type 'show c' for details.
 
-The hypothetical commands `show w' and `show c' should show the appropriate
+The hypothetical commands 'show w' and 'show c' should show the appropriate
 parts of the General Public License.  Of course, your program's commands
 might be different; for a GUI interface, you would use an "about box".
 
