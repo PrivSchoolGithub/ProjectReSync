@@ -6,8 +6,8 @@
 
 Copyright Protected © Sezei.me, 0bBinary (/ EngiAdurite) and the Lead Contributors, 2022.
 
-Thank you for using a fine product made by Studio Engi.
-All of the products made by Studio Engi are and always will be Open Source.
+Thank you for using a fine product made by Sezei.me.
+All of the products made by Sezei.me are and always will be Open Source.
 To provide the best experience using your product, please follow the included instructions.
 
 ---
