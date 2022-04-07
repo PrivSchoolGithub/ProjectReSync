@@ -4,7 +4,7 @@
 			<IMG SRC=https://i.imgur.com/NGZTqlY.png>
 		</A>
 	</DIV>
-	  <BR>
+	  <HR>
 		  <DIV ALIGN=CENTER>
 		<H1>
 			Project ReSync
