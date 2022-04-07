@@ -1,4 +1,17 @@
-<div align=center><img src="https://i.imgur.com/NGZTqlY.png"><b>Project <font color="#00AAFF">Re</font>Sync</b>
+<html>
+	<div align=center>
+		<img src="https://i.imgur.com/NGZTqlY.png">
+		<font color="#00AAFF">lololol</font>
+	</div>
+</html>
+
+<html><div align=center><img src="https://i.imgur.com/NGZTqlY.png"><b>Project <font color="#00AAFF">Re</font>Sync</b><hr></div></html>
+
+
+
+
+<div align=center><img src="https://i.imgur.com/NGZTqlY.png">
+	<b>Project <font color="#00AAFF">Re</font>Sync</b>
 <!-- height="71" width="345"></div><br> -->
 
 <hr>
