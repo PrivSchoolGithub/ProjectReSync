@@ -1,18 +1,36 @@
-<html>
-	<div align=center>
-		<img src="https://i.imgur.com/NGZTqlY.png">
-		<font color="#00AAFF">lololol</font>
-	</div>
-</html>
+<HTML>
+	<DIV ALIGN=CENTER>
+		<IMG SRC=https://i.imgur.com/NGZTqlY.png>
+	</DIV>
+	<BR>
+	<HR>
+	<DIV ALIGN=CENTER>
+		<H1>
+			Project ReSync
+		</H1>
+	</DIV>
+</HTML>
 
-<html><div align=center><img src="https://i.imgur.com/NGZTqlY.png"><b>Project <font color="#00AAFF">Re</font>Sync</b><hr></div></html>
+<div align="center">
+	<!-- SyncAdmin Roblox Model  -->
+	<h2>Why not try SyncAdmin, it's free!</h2>
+	<a href="https://www.roblox.com/library/549677290/SyncAdmin">
+		<img src="http://i.imgur.com/5vxowRs.png">
+	</a><br>
+	<!-- SyncAdmin Sandbox Game -->
+	<small>Want to try before you add it to your own game?<br>
+	<a href="https://www.roblox.com/games/1307349964/SyncAdmin-Sandbox">SyncAdmin Sandbox</a></small>
+	<br>
+	<!-- SyncAdmin Social Media -->
+	<h4>Want to join the community?</h4><br>
+	Join our Discord server: <a href="https://discord.gg/3nzcRkD">https://discord.gg/3nzcRkD</a>
+</div>
 
+> Project ReSync
 
+## WAHT
 
-
-<div align=center><img src="https://i.imgur.com/NGZTqlY.png">
-	<b>Project <font color="#00AAFF">Re</font>Sync</b>
-<!-- height="71" width="345"></div><br> -->
+<div align=center><img src="http://i.imgur.com/7c6wlkg.png" height="71" width="345"></div><br>
 
 <hr>
 
@@ -51,6 +69,7 @@ SyncAdmin is designed to work out of the box, this means that you simply insert 
 	<h4>Want to join the community?</h4><br>
 	Join our Discord server: <a href="https://discord.gg/3nzcRkD">https://discord.gg/3nzcRkD</a>
 </div>
+
 
 # Image
 https://i.imgur.com/5RboakC.png
