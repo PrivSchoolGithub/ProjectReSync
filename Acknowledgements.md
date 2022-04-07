@@ -4,14 +4,14 @@
 			<IMG SRC=https://i.imgur.com/NGZTqlY.png>
 		</A>
 	</DIV>
-	  <DIV ALIGN=CENTER>
+	  <BR>
+		  <DIV ALIGN=CENTER>
 		<H1>
 			Project ReSync
 		</H1>
 	</DIV>
 </HTML>
 
----
 __Description__: The revival of SyncAdmin.
 
 __Authors__:
