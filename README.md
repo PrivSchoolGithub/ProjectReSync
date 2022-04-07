@@ -1,4 +1,5 @@
-<div align=center><img src="https://i.imgur.com/NGZTqlY.png" <!-- height="71" width="345"></div><br> -->
+<div align=center><img src="https://i.imgur.com/NGZTqlY.png">
+<!-- height="71" width="345"></div><br> -->
 
 <hr>
 
