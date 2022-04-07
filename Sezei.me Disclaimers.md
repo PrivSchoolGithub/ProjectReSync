@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="!https://imgur.com/a/jTUgIMe"/>
-</p>
+<HTML>
+  <DIV ALIGN=CENTER>
+		<A HREF=https://www.roblox.com/groups/3984407/Sezei-me#!/about>
+			<IMG SRC=https://i.imgur.com/NGZTqlY.png>
+		</A>
+	</DIV>
+</HTML>
 
 ---
 
