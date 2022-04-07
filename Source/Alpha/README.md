@@ -1,0 +1,4 @@
+- A late version of Alpha based on the structure intended for Beta testing.
+- Separate from the other Alpha resources that were deprecated and will not be utilized in further tests.
+- Mostly kept as a safety net to fall back on in the event that Beta tests fail.
+- It is not recommended to use this code as your main source, since updates are no longer being pushed to it.
