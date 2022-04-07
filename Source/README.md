@@ -1,6 +1,59 @@
-<div align=center><img src="![image](https://user-images.githubusercontent.com/52339239/162236171-f9b8f185-ccb2-477b-bb2a-58769c6af280.png)" height="71" width="345"></div><br>
-
-<hr>
+<HTML>
+  <DIV ALIGN=CENTER>
+		<A HREF=https://www.roblox.com/groups/3984407/Sezei-me#!/about>
+			<IMG SRC=https://i.imgur.com/NGZTqlY.png>
+		</A>
+	</DIV>
+	<BR>
+	<HR>
+	<DIV ALIGN=CENTER>
+		<H1>
+			Project ReSync
+		</H1>
+	</DIV>
+	<DIV>
+		<H4>
+			<B>
+				Description:
+			</B>
+			The revival of SyncAdmin.
+			<BR>
+			<BR>
+			<B>
+				Authors:
+			</B>
+			<BR>
+		</H4>
+		<UL CLASS=BULLET>
+			<LI>
+				<B>
+					Kate
+				</B>
+				[0bBinary][Sezei#3061]
+			</LI>
+			<LI>
+				<B>
+					Scoot
+				</B>
+				[MasterScootScoot][MasterKingSirPlease#6533]
+			</LI>
+			<LI>
+				<B>
+					Polymatic Labs Ltd.
+				</B>
+			</LI>
+			<LI>
+				<B>
+					Sezei.me
+				</B>
+			</LI>
+		</UL>
+		<H4>
+			Intellectual Property of Sezei.me
+		</H4>
+		</DIV>
+     <HR>
+</HTML>
 
 ## Project ReSync Build Artifacts
 These JSON files contain the code necessary for running Project ReSync in your Roblox experiences.
