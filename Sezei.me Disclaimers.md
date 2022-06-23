@@ -8,7 +8,7 @@
 
 ---
 
-Copyright Protected © Sezei.me, 0bBinary (/ EngiAdurite) and the Lead Contributors, 2022.
+Copyright Protected © Sezei.me, 0bBinary (/EngiAdurite) and the Lead Contributors, 2022.
 
 Thank you for using a fine product made by Sezei.me.
 All of the products made by Sezei.me are and always will be Open Source.
