@@ -1,1 +1,1 @@
-
+{"locvars":[],"p":[],"sizeupvalues":0,"sizelocvars":0,"code":[{"A":1,"OP":1,"Bx":1},{"A":0,"C":1,"OP":28,"B":2},{"A":0,"C":0,"OP":30,"B":1}],"is_vararg":2,"sizecode":4,"numparams":0,"sizelineinfo":4,"k":[{"value":"test successful!"}],"nups":0,"maxstacksize":2,"sizek":2,"upvalues":[],"source":"STest","sizep":0,"lastlinedefined":0,"lineDefined":0,"sizelocalvars":0,"lineinfo":[1,1,1],"ZeroIndexes":{"lineinfo":1,"k":{"value":"print"},"code":{"A":0,"OP":5,"Bx":0}}}
