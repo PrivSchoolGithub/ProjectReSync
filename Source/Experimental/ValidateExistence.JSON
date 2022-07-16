@@ -1,6 +1,6 @@
 {
   "Response":200,
   "Status":"OK",
-  "Go":true
+  "Go":true,
   "To":"Initialize.JSON"
 }
