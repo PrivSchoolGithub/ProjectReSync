@@ -70,4 +70,4 @@ Project ReSync does not infringe on the open-source policy of Sezei.me, as the f
 
 Your use of these files is governed by our Terms of Use & Service (Found by running the ":About" command in-experience) and the <a href="https://github.com/MasterKingSirPlease/ProjectReSync/blob/main/Sezei.me%20Disclaimers.md">Sezei.me copyright license</a>.
 
-We ask that you respect our intellectual property rights by not attempting to reverse engineer, decompile, or otherwise try access the source code of Project ReSync.
+We ask that you respect our intellectual property rights by not attempting to reverse engineer, decompile, or otherwise try to access the source code of Project ReSync.
