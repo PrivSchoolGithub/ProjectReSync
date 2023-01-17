@@ -56,7 +56,7 @@
 </HTML>
 
 ## Project ReSync Build Artifacts
-These JSON files contain the code necessary for running Project ReSync in your Roblox experiences.
+These files contain the code necessary for running Project ReSync in your Roblox experiences.
 
 You can decide which version you want to run from the Studio Settings.
 
